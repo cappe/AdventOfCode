@@ -3,7 +3,7 @@ import scala.util.control.Breaks._
 
 object Day5 extends App {
 
-	val day5_input = "days/day5/input.txt"
+	val day5_input = "inputs/day5/input.txt"
 
 	def day5_1(): Int = {
 		var count = 0

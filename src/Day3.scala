@@ -4,7 +4,7 @@ import scala.util.control.Breaks._
 
 object Day3 extends App {
 	
-	val day3_input = "days/day3/input.txt"
+	val day3_input = "inputs/day3/input.txt"
 	
   	def day3_1(): Int = {
 		var santasRoute = ""

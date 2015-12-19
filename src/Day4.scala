@@ -3,7 +3,7 @@ import java.security.MessageDigest
 
 object Day4 extends App {
 
-	val day4_input = "days/day4/input.txt"
+	val day4_input = "inputs/day4/input.txt"
 
 	def day4(prefix: String): String = {
 		var decimal = ""

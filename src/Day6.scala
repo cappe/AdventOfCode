@@ -6,7 +6,7 @@
 //
 //object Day6 extends App {
 // 
-//	val day6_input = "days/day6/input.txt"
+//	val day6_input = "inputs/day6/input.txt"
 //	
 //	def day6_first() = {
 //		var matrix = new Matrix[ClassTag[Lamp1]](1000, 1000)
